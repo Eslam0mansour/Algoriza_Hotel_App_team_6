@@ -1,5 +1,5 @@
 # Booking App - Algoriza Internship Final Project by Team 6.
-
+a
 App Video : https://drive.google.com/file/d/1awyAgAqx3xzQjN_PlndqOFjZdzdWLW9E/view?usp=sharing
 
 RoomQuik .. Flutter Booking App using: Flutter BLoC as state management, Dio for APIs handling, GetIt for dependency injection, and Sizer with some built-in Flutter Widgets for Responsiveness, Shared Preferences, Google Maps, and GeoLocator.
